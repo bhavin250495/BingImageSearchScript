@@ -27,7 +27,7 @@ class Image_Download:
 
     def fire_api(self,search,count):
 
-        subscription_key = "/ENTER YOUR BING API KEY HERE/"
+        subscription_key = "ENTER YOUR BING API KEY HERE"
         assert subscription_key
 
         search_url = "https://api.cognitive.microsoft.com/bing/v7.0/images/search"
