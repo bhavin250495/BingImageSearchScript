@@ -1,5 +1,8 @@
 # BingImageSearchScript
+
 Python Image downloading script using Microsoft cognitive services
+
+Create Azure account get you secret key and paste it in the script
 
 ### Help
 
